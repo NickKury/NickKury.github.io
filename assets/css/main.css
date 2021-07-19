@@ -2078,7 +2078,7 @@ input, select, textarea {
 			}
 
 		.icon.style1 {
-			color: #00ffcc;
+			color: #ffffff;
 		}
 
 		.icon.style2 {
@@ -2604,7 +2604,7 @@ input, select, textarea {
 
 			.features li:before {
 				display: block;
-				color: #00ffcc;
+				color: #ffffff;
 				position: absolute;
 				left: 1.75em;
 				top: 2.75em;
@@ -3013,7 +3013,7 @@ input, select, textarea {
 			}
 
 			.wrapper.style3 header.major p {
-				color: #433520;
+				color: #ffffff;
 			}
 
 			.wrapper.style3 label {
